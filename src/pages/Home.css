@@ -1,0 +1,45 @@
+
+.not-found-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.not-found-image {
+  max-width: 200px;
+  margin-bottom: 20px;
+}
+
+.not-found-text {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.go-home-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #1C59AE;
+  color: #FFFFFF;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+}
+.search_bar{
+    width:800px; 
+    margin-left: 50px;
+    border-radius: 20px;
+}
+
+
+
+.options{
+  background-color: cornflowerblue;
+ border-radius: 5px;
+ border-color:cadetblue;
+ margin-right: 50px;
+ 
+}
+
+.options:hover{
+  background-color:deepskyblue;
+}
+

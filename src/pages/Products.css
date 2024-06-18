@@ -1,0 +1,39 @@
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px 0;
+  }
+  
+  .not-found-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .not-found-image {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .not-found-text {
+    font-size: 18px;
+    font-weight: 500;
+    color: #555;
+  }
+  
+  .go-home-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1C59AE;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .go-home-button:hover {
+    background-color: #0A3D91;
+  }
+  
